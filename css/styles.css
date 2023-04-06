@@ -15,11 +15,6 @@ main {
     padding: 20px;
 }
 
-footer{
-    margin: auto;
-    padding: 20px;
-}
-
 header a{
     text-decoration: none;
     color: black;
@@ -60,7 +55,7 @@ section.hero h1 {
 
 section.hero p {
     margin: 0;
-    padding: 20px 400px 20px 140px;
+    padding: 20px 300px 20px 400px;
     font-size: 20px;
     line-height: 1.5;
     text-align: center;
@@ -111,7 +106,8 @@ main div.card p{
 footer{
     background-color: rgb(63, 63, 63);
     text-align: center;
-    margin: 0;
+    margin: auto;
+    padding: 20px;
 }
 
 footer p{
